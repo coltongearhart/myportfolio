@@ -2,18 +2,40 @@ project:
   type: website
 
 website:
-  title: "myportfolio"
+  title: "Colton Gearhart"
+  search: 
+    location: navbar
+    type: textbox
+  favicon: "My files/Images/favicon.png"
   navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Teaching Resources
+        href: teaching-resources.qmd
+      - text: Current Projects
+        href: current-projects.qmd
+      - text: Resume
+        href: resume.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/coltongearhart
+      - icon: linkedin
+        href: https://www.linkedin.com/in/coltongearhart/
+      - icon: briefcase
+        href: https://www.bsu.edu/academics/collegesanddepartments/math/about/facultyandstaff/faculty/gearhartcolton
+  page-footer:
+    center: |
+      [Contact Colton Gearhart](mailto:gearhart.colton.work@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Repo](https://github.com/coltongearhart/myportfolio)
 format:
   html:
-    theme: cosmo
-    css: styles.css
-
+    theme:
+      light: flatly
+      dark: [flatly, theme_dark_custom.scss]
+    highlight-style: github
 editor: visual
 
