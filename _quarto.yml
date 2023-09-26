@@ -6,15 +6,15 @@ website:
   search: 
     location: navbar
     type: textbox
-  favicon: "My files/Images/favicon.png"
+  favicon: "Files/Images/favicon.png"
   navbar:
     left:
       - text: Home
         href: index.qmd
-      - text: Teaching Resources
-        href: teaching-resources.qmd
-      - text: Current Projects
-        href: current-projects.qmd
+      - text: Courses
+        href: courses.qmd
+      - text: Projects
+        href: projects.qmd
       - text: Resume
         href: resume.qmd
     right:

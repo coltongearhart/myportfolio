@@ -7,11 +7,60 @@
     "text": "I am a professor at Ball State University. I love using R, tidyverse and am getting into quarto. In my free time, I enjoy climbing 🧗, cooking 🍲, practicing Spanish, and avidly supporting Liverpool soccer ⚽.\nLastly, I have benefited greatly from the open source community both as an educator and a student. I hope to pay it forward as much as I can. Feel free to use any content you find here, even better if you shoot me a message letting me know how!"
   },
   {
-    "objectID": "teaching-resources.html",
-    "href": "teaching-resources.html",
-    "title": "Teaching Resources",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 24, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 21, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Colton Gearhart",
+    "section": "",
+    "text": "This page contains content for all of the courses I have taught at various institutions. Click on the links or tiles to access materials!"
+  },
+  {
+    "objectID": "courses.html#overview",
+    "href": "courses.html#overview",
+    "title": "Colton Gearhart",
+    "section": "",
+    "text": "This page contains content for all of the courses I have taught at various institutions. Click on the links or tiles to access materials!"
+  },
+  {
+    "objectID": "courses.html#probability-ball-state-university",
+    "href": "courses.html#probability-ball-state-university",
+    "title": "Colton Gearhart",
+    "section": "Probability – Ball State University",
+    "text": "Probability – Ball State University\n\n\nThe concepts of probability are of great importance in a wide variety of applications. The theory of probability, as the foundation upon which the methods of statistics are based, should command the attention of those who what to understand as well as apply statistical techniques. This course, therefore, is a required course for those who want to major in statistics or actuarial science and is an excellent course for those who are in mathematics, business, and other allied fields. Click here to access the materials!"
+  },
+  {
+    "objectID": "courses.html#mathematical-statistics-ball-state-university",
+    "href": "courses.html#mathematical-statistics-ball-state-university",
+    "title": "Colton Gearhart",
+    "section": "Mathematical Statistics – Ball State University",
+    "text": "Mathematical Statistics – Ball State University\n\n\n\n\n\n\n\n\n\n\n\n\nMathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. Click here to access the materials!"
+  },
+  {
+    "objectID": "courses.html#data-visualization-ball-state-university",
+    "href": "courses.html#data-visualization-ball-state-university",
+    "title": "Colton Gearhart",
+    "section": "Data Visualization – Ball State University",
+    "text": "Data Visualization – Ball State University\n\n\nData visualization allows people to better understand data via visual perception. This course is designed to introduce students to the principles of effective visualization design, including basics of human perception, tailoring visualizations to the data at hand, and avoiding common visualization pitfalls. Course activities will give students practical experience designing visualizations to communicate information to their audiences. Click here to access the materials!"
+  },
+  {
+    "objectID": "courses.html#quantitative-reasoning-ball-state-university",
+    "href": "courses.html#quantitative-reasoning-ball-state-university",
+    "title": "Colton Gearhart",
+    "section": "Quantitative Reasoning – Ball State University",
+    "text": "Quantitative Reasoning – Ball State University\n\n\n\n\n\n\n\n\n\n\n\n\nThis course covers aspects of personal finance, probability, and statistics. It also serves as an introductory business statistics course. We will use a variety of fundamental mathematical skills to analyze situations not typically covered in a traditional sequence of mathematics courses. We will develop problem-solving skills enabling students to be capable and productive leaders and citizens. Click here to access the materials!"
+  },
+  {
+    "objectID": "courses.html#elementary-statistics-columbus-state-community-college",
+    "href": "courses.html#elementary-statistics-columbus-state-community-college",
+    "title": "Colton Gearhart",
+    "section": "Elementary Statistics – Columbus State Community College",
+    "text": "Elementary Statistics – Columbus State Community College\n\n\nThis course is designed to acquaint students with statistical methods used in gathering and analyzing data. The course includes survey methods, graphical displays of data, descriptive statistics, the Normal distribution, basic concepts in probability and simulation, sampling distributions and the Central Limit Theorem, confidence intervals, significance testing, correlation and linear regression, and forecasting with exponential smoothing. Click here to access the materials!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -19,12 +68,5 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
