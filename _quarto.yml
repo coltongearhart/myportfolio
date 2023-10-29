@@ -1,12 +1,13 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Colton Gearhart"
   search: 
     location: navbar
     type: textbox
-  favicon: "Files/Images/favicon.png"
+  favicon: "files/images/favicon.png"
   navbar:
     left:
       - text: Home
@@ -37,5 +38,4 @@ format:
       light: flatly
       dark: [flatly, theme_dark_custom.scss]
     highlight-style: github
-editor: visual
 
