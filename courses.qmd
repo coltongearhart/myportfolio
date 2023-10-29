@@ -2,56 +2,56 @@
 
 This page contains content for all of the courses I have taught at various institutions. Click on the links or tiles to access the materials!
 
-## Probability -- Ball State University
-
-::: columns
-::: {.column width="65%"}
-The concepts of probability are of great importance in a wide variety of applications. The theory of probability, as the foundation upon which the methods of statistics are based, should command the attention of those who what to understand as well as apply statistical techniques. This course, therefore, is a required course for those who want to major in statistics or actuarial science and is an excellent course for those who are in mathematics, business, and other allied fields. Click here to access the materials!
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-![](Files/Images/probability.png){width="284"}
-:::
-:::
-
-## Mathematical Statistics -- Ball State University
-
-::: columns
-::: {.column width="30%"}
-![](Files/Images/mathematical-statistics.png){width="293"}
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-Mathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. Click here to access the materials!
-:::
-:::
-
 ## Data Visualization -- Ball State University
 
 ::: columns
-::: {.column width="65%"}
-Data visualization allows people to better understand data via visual perception. This course is designed to introduce students to the principles of effective visualization design, including basics of human perception, tailoring visualizations to the data at hand, and avoiding common visualization pitfalls. Course activities will give students practical experience designing visualizations to communicate information to their audiences. Click here to access the materials!
+::: {.column width="30%"}
+[![](files/images/data-visualization.png){width="284"}](https://coltongearhart.github.io/dana320/)
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="30%"}
-![](Files/Images/data-visualization.png){width="282"}
+::: {.column width="65%"}
+Data visualization allows people to better understand data via visual perception. This course is designed to introduce students to the principles of effective visualization design, including basics of human perception, tailoring visualizations to the data at hand, and avoiding common visualization pitfalls. Course activities will give students practical experience designing visualizations to communicate information to their audiences. [Click here to access the materials!](https://coltongearhart.github.io/dana320/)
 :::
 :::
+
+<!-- ## Probability -- Ball State University -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="30%"} -->
+<!-- ![](files/images/probability.png){width="284"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="65%"} -->
+<!-- The concepts of probability are of great importance in a wide variety of applications. The theory of probability, as the foundation upon which the methods of statistics are based, should command the attention of those who what to understand as well as apply statistical techniques. This course, therefore, is a required course for those who want to major in statistics or actuarial science and is an excellent course for those who are in mathematics, business, and other allied fields. Click here to access the materials! -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Mathematical Statistics -- Ball State University -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="30%"} -->
+<!-- ![](files/images/mathematical-statistics.png){width="293"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="65%"} -->
+<!-- Mathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. Click here to access the materials! -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Quantitative Reasoning -- Ball State University
 
 ::: columns
 ::: {.column width="30%"}
-![](Files/Images/quantitative-reasoning.png){width="285"}
+![](files/images/quantitative-reasoning.png){width="285"}
 :::
 
 ::: {.column width="5%"}
@@ -65,14 +65,14 @@ This course covers aspects of personal finance, probability, and statistics. Thi
 ## Elementary Statistics -- Columbus State Community College
 
 ::: columns
-::: {.column width="65%"}
-This course is designed to acquaint students with statistical methods used in gathering and analyzing data. It also serves as an introductory business statistics course. The course includes survey methods, graphical displays of data, descriptive statistics, the Normal distribution, basic concepts in probability and simulation, sampling distributions and the Central Limit Theorem, confidence intervals, significance testing, correlation and linear regression, and forecasting with exponential smoothing. Click here to access the materials!
+::: {.column width="30%"}
+![](files/images/elementary-statistics.png){width="284"}
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="30%"}
-![](Files/Images/elementary-statistics.png){width="284"}
+::: {.column width="65%"}
+This course is designed to acquaint students with statistical methods used in gathering and analyzing data. It also serves as an introductory business statistics course. The course includes survey methods, graphical displays of data, descriptive statistics, the Normal distribution, basic concepts in probability and simulation, sampling distributions and the Central Limit Theorem, confidence intervals, significance testing, correlation and linear regression, and forecasting with exponential smoothing. Click here to access the materials!
 :::
 :::

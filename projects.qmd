@@ -1,1 +1,49 @@
+## Overview
 
+This page contains various projects that I have worked on. Click on the links or tiles to access the projects!
+
+## Gibbs Sampling Simulation -- Research
+
+::: columns
+
+::: {.column width="30%"}
+[![](files/images/gibbs-sampling.png){width="284"}](https://coltongearhart.github.io/greaves/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This paper discusses how a variety of actuarial models can be implemented and analyzed with a Bayesian approach using Gibbs sampling, a Markov chain Monte Carlo method. This approach allows a practitioner to analyze complicated actuarial models by reducing them to simpler, more manageable models. Furthermore, general properties of Gibbs sampling are discussed through a simulation approach. [Click here to continue reading!](https://coltongearhart.github.io/greaves/)
+:::
+:::
+
+## Climate Change -- Data Visualization
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/climate-dataviz.png){width="284"}](https://coltongearhart.github.io/climate-dataviz/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This project takes NOAA data to visualize the affect of climate change on minimum and maximum daily temperatures, as well as precipitation levels, over time for three different locations around the world. With the collected data, the data visualization process from start to finish is explained and demonstrated at each step building up to the final visuals. [Click here to view the project!](https://coltongearhart.github.io/climate-dataviz/)
+:::
+:::
+
+## Computation Methods in R -- Mini Course
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/computational-methods.png){width="284"}](https://coltongearhart.github.io/computational-methods/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+In this mini course we will be exploring the use of computing and non-parametric method in statistical practice. This will look like a set of general programming and computing topics and methods. This will require that we use a statistical programming language in sophisticated ways, and the module will specifically explore techniques for advanced programming in R. [Click here to view the mini-course!](https://coltongearhart.github.io/computational-methods/)
+:::
+:::

@@ -1,6 +1,1 @@
-<iframe
-width="900"
-height="1150"
-src="My files/Colton Gearhart - Resume.pdf">
-</iframe>
-
+<embed src="files/colton-gearhart-resume.pdf" type="application/pdf" width="100%" height="140%"></embed>
