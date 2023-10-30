@@ -73,6 +73,6 @@ This course covers aspects of personal finance, probability, and statistics. Thi
 :::
 
 ::: {.column width="65%"}
-This course is designed to acquaint students with statistical methods used in gathering and analyzing data. It also serves as an introductory business statistics course. The course includes survey methods, graphical displays of data, descriptive statistics, the Normal distribution, basic concepts in probability and simulation, sampling distributions and the Central Limit Theorem, confidence intervals, significance testing, correlation and linear regression, and forecasting with exponential smoothing. [Click here to access the materials!]((https://coltongearhart.github.io/elementary-stats)
+This course is designed to acquaint students with statistical methods used in gathering and analyzing data. It also serves as an introductory business statistics course. The course includes survey methods, graphical displays of data, descriptive statistics, the Normal distribution, basic concepts in probability and simulation, sampling distributions and the Central Limit Theorem, confidence intervals, significance testing, correlation and linear regression, and forecasting with exponential smoothing. [Click here to access the materials!](https://coltongearhart.github.io/elementary-stats)
 :::
 :::
