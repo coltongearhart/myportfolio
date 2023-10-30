@@ -47,20 +47,20 @@ Data visualization allows people to better understand data via visual perception
 <!-- ::: -->
 <!-- ::: -->
 
-## Quantitative Reasoning -- Ball State University
+<!-- ## Quantitative Reasoning -- Ball State University -->
 
-::: columns
-::: {.column width="30%"}
-![](files/images/quantitative-reasoning.png){width="285"}
-:::
+<!-- ::: columns -->
+<!-- ::: {.column width="30%"} -->
+<!-- ![](files/images/quantitative-reasoning.png){width="285"} -->
+<!-- ::: -->
 
-::: {.column width="5%"}
-:::
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
 
-::: {.column width="65%"}
-This course covers aspects of personal finance, probability, and statistics. This course will allow students to use a variety of fundamental mathematical skills to analyze situations not typically covered in a traditional sequence of mathematics courses. Students will develop problem-solving skills enabling students to be capable and productive leaders and citizens. Click here to access the materials!
-:::
-:::
+<!-- ::: {.column width="65%"} -->
+<!-- This course covers aspects of personal finance, probability, and statistics. This course will allow students to use a variety of fundamental mathematical skills to analyze situations not typically covered in a traditional sequence of mathematics courses. Students will develop problem-solving skills enabling students to be capable and productive leaders and citizens. Click here to access the materials! -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Elementary Statistics -- Columbus State Community College
 
