@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.376">
+<meta name="generator" content="quarto-1.4.533">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Colton Gearhart – courses</title>
+<title>Colton Gearhart</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -48,9 +48,11 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
-    null
+    "f",
+    "/",
+    "s"
   ],
   "language": {
     "search-no-results-text": "No results",
@@ -60,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -73,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
@@ -137,6 +140,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>This page contains content for all of the courses I have taught at various institutions. Click on the links or tiles to access the materials!</p>
@@ -157,30 +161,25 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="probability-ball-state-university">Probability – Ball State University</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-center anchored" width="284">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="files/images/probability.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid figure-img" width="284">
-</div>
-</figure>
-</div>
+<p><img src="files/images/probability.png" class="img-fluid" width="284"></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
 <p>The concepts of probability are of great importance in a wide variety of applications. The theory of probability, as the foundation upon which the methods of statistics are based, should command the attention of those who what to understand as well as apply statistical techniques. This course, therefore, is a required course for those who want to major in statistics or actuarial science and is an excellent course for those who are in mathematics, business, and other allied fields. <a href="https://coltongearhart.github.io/math320/">Click here to access the materials!</a></p>
 </div>
 </div>
-<!-- ## Mathematical Statistics -- Ball State University -->
-<!-- ::: columns -->
-<!-- ::: {.column width="30%"} -->
-<!-- ![](files/images/mathematical-statistics.png){width="293"} -->
-<!-- ::: -->
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
-<!-- ::: {.column width="65%"} -->
-<!-- Mathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. Click here to access the materials! -->
-<!-- ::: -->
-<!-- ::: -->
+</section>
+<section id="mathematical-statistics-ball-state-university" class="level2">
+<h2 class="anchored" data-anchor-id="mathematical-statistics-ball-state-university">Mathematical Statistics – Ball State University</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p><img src="files/images/mathematical-statistics.png" class="img-fluid" width="293"></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:65%;">
+<p>Mathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. <a href="https://coltongearhart.github.io/math321/">Click here to access the materials!</a></p>
+</div>
+</div>
 </section>
 <section id="quantitative-reasoning-ball-state-university" class="level2">
 <h2 class="anchored" data-anchor-id="quantitative-reasoning-ball-state-university">Quantitative Reasoning – Ball State University</h2>
@@ -482,15 +481,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
         }
         return container.innerHTML
       } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -498,6 +510,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const anchorLink = note.querySelector('a.anchorjs-link');
       if (anchorLink) {
         anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
       }
       return note.innerHTML;
     }
@@ -541,6 +556,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -616,7 +654,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     window.addEventListener(
       "resize",
       throttle(() => {
-        console.log("RESIZE");
         elRect = undefined;
         if (selectedAnnoteEl) {
           selectCodeLines(selectedAnnoteEl);

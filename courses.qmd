@@ -32,20 +32,20 @@ The concepts of probability are of great importance in a wide variety of applica
 :::
 :::
 
-<!-- ## Mathematical Statistics -- Ball State University -->
+## Mathematical Statistics -- Ball State University
 
-<!-- ::: columns -->
-<!-- ::: {.column width="30%"} -->
-<!-- ![](files/images/mathematical-statistics.png){width="293"} -->
-<!-- ::: -->
+::: columns
+::: {.column width="30%"}
+![](files/images/mathematical-statistics.png){width="293"}
+:::
 
-<!-- ::: {.column width="5%"} -->
-<!-- ::: -->
+::: {.column width="5%"}
+:::
 
-<!-- ::: {.column width="65%"} -->
-<!-- Mathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. Click here to access the materials! -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.column width="65%"}
+Mathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. [Click here to access the materials!](https://coltongearhart.github.io/math321/)
+:::
+:::
 
 ## Quantitative Reasoning -- Ball State University
 

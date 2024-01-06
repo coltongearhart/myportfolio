@@ -81,7 +81,7 @@
     "href": "courses.html#probability-ball-state-university",
     "title": "Colton Gearhart",
     "section": "Probability – Ball State University",
-    "text": "Probability – Ball State University\n\n\n\n\n\n\n\n\n\n\n\n\nThe concepts of probability are of great importance in a wide variety of applications. The theory of probability, as the foundation upon which the methods of statistics are based, should command the attention of those who what to understand as well as apply statistical techniques. This course, therefore, is a required course for those who want to major in statistics or actuarial science and is an excellent course for those who are in mathematics, business, and other allied fields. Click here to access the materials!"
+    "text": "Probability – Ball State University\n\n\n\n\n\n\nThe concepts of probability are of great importance in a wide variety of applications. The theory of probability, as the foundation upon which the methods of statistics are based, should command the attention of those who what to understand as well as apply statistical techniques. This course, therefore, is a required course for those who want to major in statistics or actuarial science and is an excellent course for those who are in mathematics, business, and other allied fields. Click here to access the materials!"
   },
   {
     "objectID": "projects.html#regression-course-notes",
@@ -89,5 +89,12 @@
     "title": "Colton Gearhart",
     "section": "Regression – Course Notes",
     "text": "Regression – Course Notes\n\n\n\n\n\n\nThese course notes introduce regression models and accompanying assumptions. In addition, they cover the theory of least squares to understand the statistical inference procedures behind linear models. Extensive applications of modeling in R will be demonstrated, with a goal of being able to understand strengths and limitations of models. These will be applied to predict and perform inference, while developing sensitivity to important model assumptions. Click here to view the course notes!"
+  },
+  {
+    "objectID": "courses.html#mathematical-statistics-ball-state-university",
+    "href": "courses.html#mathematical-statistics-ball-state-university",
+    "title": "Colton Gearhart",
+    "section": "Mathematical Statistics – Ball State University",
+    "text": "Mathematical Statistics – Ball State University\n\n\n\n\n\n\nMathematical statistics is the study of how to deal with data by means of probability models. It grew out of methods for treating data that were obtained by some repetitive operation such as those encountered in games of chance and in industrial processes. These methods soon found application in such diverse fields as medical research, insurance, marketing, agriculture, chemistry, and in industrial experimentation. This course is, therefore, a required course for statistics and actuarial science majors and is an excellent course for those who may need in their work statistical methods at a reasonably sophisticated level. Click here to access the materials!"
   }
 ]
