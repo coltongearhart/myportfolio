@@ -21,7 +21,7 @@ Data visualization allows people to better understand data via visual perception
 
 ::: columns
 ::: {.column width="30%"}
-![](files/images/probability.png){width="284"}
+[![](files/images/probability.png){width="284"}](https://coltongearhart.github.io/math320/)
 :::
 
 ::: {.column width="5%"}
@@ -36,7 +36,7 @@ The concepts of probability are of great importance in a wide variety of applica
 
 ::: columns
 ::: {.column width="30%"}
-![](files/images/mathematical-statistics.png){width="293"}
+[![](files/images/mathematical-statistics.png){width="284"}](https://coltongearhart.github.io/math321/)
 :::
 
 ::: {.column width="5%"}
