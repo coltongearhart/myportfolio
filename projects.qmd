@@ -14,7 +14,11 @@ This page contains various projects that I have worked on. Click on the links or
 :::
 
 ::: {.column width="65%"}
+[Click here for the abridged presentation version!](https://coltongearhart.quarto.pub/masters-project/)
+
 Determining how large of a sample is needed is an important step when planning studies; if too large, resources could be wasted and if too small, the usefulness of any results can be greatly affected. A key factor in choosing an appropriate sample size is the goal of the particular analysis. If explanation, as reflected by hypothesis tests of particular regression coefficients is the goal, there are many existing and different types of methods to help guide researchers with sample size calculations. However, if the goal of a study is prediction, then available methods are more limited. Through many different defined scenarios, a Monte Carlo simulation was performed to assess the predictive accuracy of multiple linear regression models that are trained on various sample sizes according to some previously proposed conventional rules... [Click here to continue reading!](https://coltongearhart.github.io/masters-project/)
+
+
 :::
 :::
 
