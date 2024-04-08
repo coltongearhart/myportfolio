@@ -83,6 +83,22 @@ These course notes introduce regression models and accompanying assumptions. In 
 :::
 :::
 
+## WiDS -- Presentation
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/wids.png){width="284"}](https://coltongearhart.quarto.pub/wids-data-viz/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This is my presentation over "Data Exploration and Visualization" at Women in Data Science (WiDS) Conference Muncie @ Ball State University 2024. [Click here to view the presentation notes!](https://coltongearhart.quarto.pub/wids-data-viz/)
+:::
+:::
+
+
 ## Bayesian Statistics -- Course Notes
 
 ::: columns

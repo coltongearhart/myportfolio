@@ -110,5 +110,12 @@
     "title": "Colton Gearhart",
     "section": "Bayesian Statistics – Course Notes",
     "text": "Bayesian Statistics – Course Notes\n\n\n\n\n\n\nThese course notes introduce the Bayesian approach to statistical inference for data analysis in a variety of applications. Topics include: comparison of Bayesian and frequentist methods, Bayesian model specification, prior elicitation, Markov chain Monte Carlo, Bayes factor, Model selection, hierarchical models, Bayesian regression models. Implementation of Bayesian data analysis will be done using R and Stan. Click here to view the course notes!"
+  },
+  {
+    "objectID": "projects.html#wids-presentation",
+    "href": "projects.html#wids-presentation",
+    "title": "Colton Gearhart",
+    "section": "WiDS – Presentation",
+    "text": "WiDS – Presentation\n\n\n\n\n\n\nThis is my presentation over “Data Exploration and Visualization” at Women in Data Science (WiDS) Conference Muncie @ Ball State University 2024. Click here to view the presentation notes!"
   }
 ]
