@@ -6,7 +6,7 @@ This page contains content for all of the courses I have taught at various insti
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/data-visualization.png){width="284"}](https://coltongearhart.github.io/dana320/)
+[![](images/data-visualization.png){width="284"}](https://coltongearhart.github.io/dana320/)
 :::
 
 ::: {.column width="5%"}
@@ -21,7 +21,7 @@ Data visualization allows people to better understand data via visual perception
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/probability.png){width="284"}](https://coltongearhart.github.io/math320/)
+[![](images/probability.png){width="284"}](https://coltongearhart.github.io/math320/)
 :::
 
 ::: {.column width="5%"}
@@ -36,7 +36,7 @@ The concepts of probability are of great importance in a wide variety of applica
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/mathematical-statistics.png){width="284"}](https://coltongearhart.github.io/math321/)
+[![](images/mathematical-statistics.png){width="284"}](https://coltongearhart.github.io/math321/)
 :::
 
 ::: {.column width="5%"}
@@ -51,7 +51,7 @@ Mathematical statistics is the study of how to deal with data by means of probab
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/quantitative-reasoning.png){width="284"}](https://coltongearhart.github.io/math125/)
+[![](images/quantitative-reasoning.png){width="284"}](https://coltongearhart.github.io/math125/)
 :::
 
 ::: {.column width="5%"}
@@ -66,7 +66,7 @@ This course covers aspects of personal finance, probability, and statistics. Thi
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/elementary-statistics.png){width="284"}](https://coltongearhart.github.io/elementary-stats/)
+[![](images/elementary-statistics.png){width="284"}](https://coltongearhart.github.io/elementary-stats/)
 :::
 
 ::: {.column width="5%"}

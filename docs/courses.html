@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.533">
+<meta name="generator" content="quarto-1.4.545">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="data-visualization-ball-state-university">Data Visualization – Ball State University</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><a href="https://coltongearhart.github.io/dana320/"><img src="files/images/data-visualization.png" class="img-fluid" width="284"></a></p>
+<p><a href="https://coltongearhart.github.io/dana320/"><img src="images/data-visualization.png" class="img-fluid" width="284"></a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
@@ -161,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="probability-ball-state-university">Probability – Ball State University</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><a href="https://coltongearhart.github.io/math320/"><img src="files/images/probability.png" class="img-fluid" width="284"></a></p>
+<p><a href="https://coltongearhart.github.io/math320/"><img src="images/probability.png" class="img-fluid" width="284"></a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
@@ -173,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="mathematical-statistics-ball-state-university">Mathematical Statistics – Ball State University</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><a href="https://coltongearhart.github.io/math321/"><img src="files/images/mathematical-statistics.png" class="img-fluid" width="284"></a></p>
+<p><a href="https://coltongearhart.github.io/math321/"><img src="images/mathematical-statistics.png" class="img-fluid" width="284"></a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
@@ -185,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="quantitative-reasoning-ball-state-university">Quantitative Reasoning – Ball State University</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><a href="https://coltongearhart.github.io/math125/"><img src="files/images/quantitative-reasoning.png" class="img-fluid" width="284"></a></p>
+<p><a href="https://coltongearhart.github.io/math125/"><img src="images/quantitative-reasoning.png" class="img-fluid" width="284"></a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
@@ -197,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="elementary-statistics-columbus-state-community-college">Elementary Statistics – Columbus State Community College</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p><a href="https://coltongearhart.github.io/elementary-stats/"><img src="files/images/elementary-statistics.png" class="img-fluid" width="284"></a></p>
+<p><a href="https://coltongearhart.github.io/elementary-stats/"><img src="images/elementary-statistics.png" class="img-fluid" width="284"></a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:65%;">
@@ -514,7 +514,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

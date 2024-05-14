@@ -7,7 +7,7 @@ This page contains various projects that I have worked on. Click on the links or
 ::: columns
 
 ::: {.column width="30%"}
-[![](files/images/masters-project.png){width="284"}](https://coltongearhart.github.io/masters-project/)
+[![](images/masters-project.png){width="284"}](https://coltongearhart.github.io/masters-project/)
 :::
 
 ::: {.column width="5%"}
@@ -27,7 +27,7 @@ Determining how large of a sample is needed is an important step when planning s
 ::: columns
 
 ::: {.column width="30%"}
-[![](files/images/gibbs-sampling.png){width="284"}](https://coltongearhart.github.io/greaves/)
+[![](images/gibbs-sampling.png){width="284"}](https://coltongearhart.github.io/greaves/)
 :::
 
 ::: {.column width="5%"}
@@ -42,7 +42,7 @@ This paper discusses how a variety of actuarial models can be implemented and an
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/climate-dataviz.png){width="284"}](https://coltongearhart.github.io/climate-dataviz/)
+[![](images/climate-dataviz.png){width="284"}](https://coltongearhart.github.io/climate-dataviz/)
 :::
 
 ::: {.column width="5%"}
@@ -57,7 +57,7 @@ This project takes NOAA data to visualize the affect of climate change on minimu
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/computational-methods.png){width="284"}](https://coltongearhart.github.io/computational-methods/)
+[![](images/computational-methods.png){width="284"}](https://coltongearhart.github.io/computational-methods/)
 :::
 
 ::: {.column width="5%"}
@@ -72,7 +72,7 @@ In this mini course we will be exploring the use of computing and non-parametric
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/regression.png){width="284"}](https://coltongearhart.github.io/regression/)
+[![](images/regression.png){width="284"}](https://coltongearhart.github.io/regression/)
 :::
 
 ::: {.column width="5%"}
@@ -87,7 +87,7 @@ These course notes introduce regression models and accompanying assumptions. In 
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/wids.png){width="284"}](https://coltongearhart.quarto.pub/wids-data-viz/)
+[![](images/wids.png){width="284"}](https://coltongearhart.quarto.pub/wids-data-viz/)
 :::
 
 ::: {.column width="5%"}
@@ -102,7 +102,7 @@ This is my presentation over "Data Exploration and Visualization" at Women in Da
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/sas.png){width="284"}](https://coltongearhart.github.io/sas/)
+[![](images/sas.png){width="284"}](https://coltongearhart.github.io/sas/)
 :::
 
 ::: {.column width="5%"}
@@ -117,7 +117,7 @@ This is my handbook covering the basics of the SAS programming language. [Click 
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/bayes.png){width="284"}](https://coltongearhart.github.io/bayes/)
+[![](images/bayes.png){width="284"}](https://coltongearhart.github.io/bayes/)
 :::
 
 ::: {.column width="5%"}
