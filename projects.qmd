@@ -23,7 +23,7 @@ Determining how large of a sample is needed is an important step when planning s
 :::
 :::
 
-### Gibbs Sampling Simulation -- Research
+### Gibbs Sampling Simulation
 
 ::: columns
 
@@ -41,7 +41,7 @@ This paper discusses how a variety of actuarial models can be implemented and an
 
 ## Data Visualization
 
-### Climate Change -- Data Visualization
+### Climate Change
 
 ::: columns
 ::: {.column width="30%"}
@@ -132,6 +132,23 @@ These course notes introduce the Bayesian approach to statistical inference for 
 These notes are preparation for CAS Exam - Modern Actuarial Statistics 1. Topics include probability models (stochastic processes and survival models), statistics, and extended linear models. All applications are done in R. [Click here to view the study notes!](https://coltongearhart.github.io/mas1/)
 :::
 :::
+
+### Exam 5
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/exam5.png){width="284"}](https://coltongearhart.github.io/exam5/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+These notes are preparation for CAS Exam 5 - Basic Techniques for Ratemaking and Estimating
+Claim Liabilities. [Click here to view the study notes!](https://coltongearhart.github.io/exam5/)
+:::
+:::
+
 
 ## Presentations
 
