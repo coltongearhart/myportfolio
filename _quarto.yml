@@ -20,11 +20,9 @@ website:
         href: resume.qmd
     right:
       - icon: github
-        href: https://www.linkedin.com/in/coltongearhart/
+        href: https://github.com/coltongearhart
       - icon: linkedin
         href: https://www.linkedin.com/in/coltongearhart/
-      - icon: briefcase
-        href: https://www.bsu.edu/academics/collegesanddepartments/math/about/facultyandstaff/faculty/gearhartcolton
   page-footer:
     center: |
       [Contact Colton Gearhart](mailto:gearhart.colton.work@gmail.com)

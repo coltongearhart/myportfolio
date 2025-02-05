@@ -10,14 +10,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/coltongearhart/
-    - icon: briefcase
-      text: Ball State Webpage
-      href: https://www.bsu.edu/academics/collegesanddepartments/math/about/facultyandstaff/faculty/gearhartcolton
     - icon: envelope
       text: Contact me
       href: mailto:gearhart.colton.work@gmail.com
 ---
 
-I am a professor at Ball State University. I love using `R`, `tidyverse` and am getting into `quarto`. In my free time, I enjoy climbing 🧗, cooking 🍲, practicing Spanish, and avidly supporting Liverpool soccer ⚽.
+I am an actuary at Stillwater Insurance Group. I love using `R`, `tidyverse` and am getting into `quarto`. In my free time, I enjoy climbing 🧗, cooking 🍲, practicing Spanish, and avidly supporting Liverpool soccer ⚽.
 
-Lastly, I have benefited greatly from the open source community both as an educator and a student. I hope to pay it forward as much as I can. Feel free to use any content you find here, even better if you shoot me a message letting me know how!
+Lastly, I have benefited greatly from the open source community as a professional, an educator and a student. I hope to pay it forward as much as I can. Feel free to use any content you find here, even better if you shoot me a message letting me know how!
