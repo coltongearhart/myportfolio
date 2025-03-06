@@ -56,6 +56,21 @@ This project takes NOAA data to visualize the affect of climate change on minimu
 :::
 :::
 
+### Shiny apps
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/shiny.png){width="284"}](https://coltongearhart.github.io/shiny-apps/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This site contains the various shiny apps that I have made throughout the years. [Click here to view the project!](https://coltongearhart.github.io/shiny-apps/)
+:::
+:::
+
 ## Course Notes
 
 ### Computation Methods in R
