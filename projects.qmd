@@ -181,3 +181,20 @@ Claim Liabilities. [Click here to view the study notes!](https://coltongearhart.
 This is my presentation over "Data Exploration and Visualization" at Women in Data Science (WiDS) Conference Muncie @ Ball State University 2024. [Click here to view the presentation notes!](https://coltongearhart.quarto.pub/wids-data-viz/)
 :::
 :::
+
+## Work
+
+### Code and scripts
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/work.png){width="284"}](https://coltongearhart.github.io/work/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This contains various code and scripts that I have worked on at work. [Click here to continue reading!](https://coltongearhart.github.io/work/)
+:::
+:::
