@@ -73,63 +73,19 @@ This site contains the various shiny apps that I have made throughout the years.
 
 ## Course Notes
 
-### Computation Methods in R
+### Exam 5
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/computational-methods.png){width="284"}](https://coltongearhart.github.io/computational-methods/)
+[![](files/images/exam5.png){width="284"}](https://coltongearhart.github.io/exam5/)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="65%"}
-In this mini course we will be exploring the use of computing and non-parametric method in statistical practice. This will look like a set of general programming and computing topics and methods. This will require that we use a statistical programming language in sophisticated ways, and the module will specifically explore techniques for advanced programming in R. [Click here to view the mini-course!](https://coltongearhart.github.io/computational-methods/)
-:::
-:::
-
-### Regression
-
-::: columns
-::: {.column width="30%"}
-[![](files/images/regression.png){width="284"}](https://coltongearhart.github.io/regression/)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-These course notes introduce regression models and accompanying assumptions. In addition, they cover the theory of least squares to understand the statistical inference procedures behind linear models. Extensive applications of modeling in R will be demonstrated, with a goal of being able to understand strengths and limitations of models. These will be applied to predict and perform inference, while developing sensitivity to important model assumptions. [Click here to view the course notes!](https://coltongearhart.github.io/regression/)
-:::
-:::
-
-### SAS
-
-::: columns
-::: {.column width="30%"}
-[![](files/images/sas.png){width="284"}](https://coltongearhart.github.io/sas/)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-This is my handbook covering the basics of the SAS programming language. [Click here to view the handbook!](https://coltongearhart.github.io/sas/)
-:::
-:::
-
-### Bayesian Statistics
-
-::: columns
-::: {.column width="30%"}
-[![](files/images/bayes.png){width="284"}](https://coltongearhart.github.io/bayes/)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
-These course notes introduce the Bayesian approach to statistical inference for data analysis in a variety of applications. Topics include: comparison of Bayesian and frequentist methods, Bayesian model specification, prior elicitation, Markov chain Monte Carlo, Bayes factor, Model selection, hierarchical models, Bayesian regression models. Implementation of Bayesian data analysis will be done using R and Stan. [Click here to view the course notes!](https://coltongearhart.github.io/bayes/)
+These notes are preparation for CAS Exam 5 - Basic Techniques for Ratemaking and Estimating
+Claim Liabilities. [Click here to view the study notes!](https://coltongearhart.github.io/exam5/)
 :::
 :::
 
@@ -148,22 +104,50 @@ These notes are preparation for CAS Exam - Modern Actuarial Statistics 1. Topics
 :::
 :::
 
-### Exam 5
+### Bayesian Statistics
 
 ::: columns
 ::: {.column width="30%"}
-[![](files/images/exam5.png){width="284"}](https://coltongearhart.github.io/exam5/)
+[![](files/images/bayes.png){width="284"}](https://coltongearhart.github.io/bayes/)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="65%"}
-These notes are preparation for CAS Exam 5 - Basic Techniques for Ratemaking and Estimating
-Claim Liabilities. [Click here to view the study notes!](https://coltongearhart.github.io/exam5/)
+These course notes introduce the Bayesian approach to statistical inference for data analysis in a variety of applications. Topics include: comparison of Bayesian and frequentist methods, Bayesian model specification, prior elicitation, Markov chain Monte Carlo, Bayes factor, Model selection, hierarchical models, Bayesian regression models. Implementation of Bayesian data analysis will be done using R and Stan. [Click here to view the course notes!](https://coltongearhart.github.io/bayes/)
 :::
 :::
 
+### Computation Methods in R
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/computational-methods.png){width="284"}](https://coltongearhart.github.io/computational-methods/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+In this mini course we will be exploring the use of computing and non-parametric method in statistical practice. This will look like a set of general programming and computing topics and methods. This will require that we use a statistical programming language in sophisticated ways, and the module will specifically explore techniques for advanced programming in R. [Click here to view the mini-course!](https://coltongearhart.github.io/computational-methods/)
+:::
+:::
+
+### SAS
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/sas.png){width="284"}](https://coltongearhart.github.io/sas/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This is my handbook covering the basics of the SAS programming language. [Click here to view the handbook!](https://coltongearhart.github.io/sas/)
+:::
+:::
 
 ## Presentations
 
