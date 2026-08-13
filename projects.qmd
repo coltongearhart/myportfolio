@@ -182,3 +182,18 @@ This is my presentation over "Data Exploration and Visualization" at Women in Da
 This contains various code and scripts that I have worked on at work. [Click here to continue reading!](https://coltongearhart.github.io/work/)
 :::
 :::
+
+### Learning python
+
+::: columns
+::: {.column width="30%"}
+[![](files/images/learning-python.png){width="284"}](https://coltongearhart.github.io/learning-python/)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This contains small projects that I have worked on to learn python. It is mainly to be used as a reference for common python concepts and syntax. [Click here to view the projects!](https://coltongearhart.github.io/learning-python/)
+:::
+:::
